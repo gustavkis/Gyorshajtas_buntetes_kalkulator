@@ -1,0 +1,1 @@
+# Gyorshajtas_buntetes_kalkulator
